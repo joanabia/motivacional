@@ -26,7 +26,7 @@
     Senhor, obrigado por renovar Tua graça sobre mim a cada dia.
     Me fortalece para viver esse novo dia com fé e coragem. Amém.
 
-    <p>Testemunho - "Eu pensei em desistir"
+    Testemunho - "Eu pensei em desistir"
    Mensagem Final:
     “Se Deus cuidou de mim quando eu achei que era o fim, Ele vai cuidar de você também.<br>
     Não desista. O recomeço pode estar a uma oração de distância.”
@@ -35,12 +35,6 @@
     Formulário: Viva com Propósito 
     Queremos caminhar com você! Preencha com carinho.</p>
 
-    <form>
-        <p><label><input type="checkbox" name="ajuda" value="Testemunho"> Testemunho</label></p>
-        <p><label><input type="checkbox" name="ajuda" value="Pedido de Oração"> Pedido de Oração</label></p>
-        <p><label><input type="checkbox" name="ajuda" value="Devocional"> Receber mensagens devocionais</label></p>
-        <p><label><input type="checkbox" name="ajuda" value="Aceitar Jesus"> Aceitar Jesus</label></p>
-    </form>
 
     <br>
     <p><strong>Joana Rodrigues</strong><br>
