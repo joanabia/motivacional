@@ -36,8 +36,4 @@
     Queremos caminhar com você! Preencha com carinho.</p>
 
 
-    <br><br>
-    <p> <strong> Joana Rodrigues </strong><br>
-    <small>joanabeatriz5@outlook.com</small></p>
-    <p><a href="joana.html">Sobre mim </p>
-</body>
+   
