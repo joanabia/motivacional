@@ -14,29 +14,27 @@
     
 
      <p> Reflexão — “O Recomeço” 
-    <p>Nem sempre os recomeços são fáceis, mas eles sempre são possíveis.<br>
-    Deus não espera que você seja perfeito, Ele espera que você confie.<br>
+    <p>Nem sempre os recomeços são fáceis, mas eles sempre são possíveis.
+    Deus não espera que você seja perfeito, Ele espera que você confie.
     Todo dia é uma nova chance de deixar para trás o medo e seguir em frente pela fé.</p>
     
 
-    <p> <h3> Devocional — “A Graça de Cada Manhã”</h3>   
-    “As misericórdias do Senhor são a causa de não sermos consumidos; renovam-se cada manhã.” (Lamentações 3:22-23)</p>
-    <p> Hoje, ao abrir os olhos, Deus te deu um presente: um novo dia.
+    <p><h3> Devocional — “A Graça de Cada Manhã”</h3></p>   
+   <p> “As misericórdias do Senhor são a causa de não sermos consumidos; renovam-se cada manhã.” (Lamentações 3:22-23). Hoje, ao abrir os olhos, Deus te deu um presente: um novo dia.
     Não carregue os pesos de ontem.<br>
     A cada manhã, renove sua fé, entregue seus planos a Ele e viva com esperança.</p>
 
-    <p> <br>Oração:
-    <b>Senhor, obrigado por renovar Tua graça sobre mim a cada dia.<br>
-    Me fortalece para viver esse novo dia com fé e coragem. Amém.</b></p>
-    <hr>
+    <p> Oração:
+    <b>Senhor, obrigado por renovar Tua graça sobre mim a cada dia.
+    Me fortalece para viver esse novo dia com fé e coragem. Amém.</p>
 
-    <p>Testemunho - "Eu pensei em desistir"</p>
-    <p>Mensagem Final:
+    <p>Testemunho - "Eu pensei em desistir"
+   Mensagem Final:
     “Se Deus cuidou de mim quando eu achei que era o fim, Ele vai cuidar de você também.<br>
-    Não desista. O recomeço pode estar a uma oração de distância.”</p>
+    Não desista. O recomeço pode estar a uma oração de distância.”
 
 
-    <p>Formulário: Viva com Propósito 
+    Formulário: Viva com Propósito 
     Queremos caminhar com você! Preencha com carinho.</p>
 
     <form>
