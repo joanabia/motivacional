@@ -9,12 +9,10 @@
 <body bgcolor="caramel">
     <h1>Renascer Todo Dia!</h1>
     <h2>Fé, Coragem e Propósito para Recomeçar.</h2>
-    <p>Todos os dias, Deus nos dá uma nova chance.<br>
-    Uma nova oportunidade de crescer, acreditar e agir.</p>
-    
-
-     <p> Reflexão — “O Recomeço” 
-    <p>Nem sempre os recomeços são fáceis, mas eles sempre são possíveis.
+    <p>Todos os dias, Deus nos dá uma nova chance.
+    Uma nova oportunidade de crescer, acreditar e agir.
+      Reflexão — “O Recomeço” 
+    Nem sempre os recomeços são fáceis, mas eles sempre são possíveis.
     Deus não espera que você seja perfeito, Ele espera que você confie.
     Todo dia é uma nova chance de deixar para trás o medo e seguir em frente pela fé.</p>
     
@@ -22,10 +20,10 @@
     <p><h3> Devocional — “A Graça de Cada Manhã”</h3></p>   
    <p> “As misericórdias do Senhor são a causa de não sermos consumidos; renovam-se cada manhã.” (Lamentações 3:22-23). Hoje, ao abrir os olhos, Deus te deu um presente: um novo dia.
     Não carregue os pesos de ontem.<br>
-    A cada manhã, renove sua fé, entregue seus planos a Ele e viva com esperança.</p>
+    A cada manhã, renove sua fé, entregue seus planos a Ele e viva com esperança.
 
-    <p> Oração:
-    <b>Senhor, obrigado por renovar Tua graça sobre mim a cada dia.
+    Oração:
+    Senhor, obrigado por renovar Tua graça sobre mim a cada dia.
     Me fortalece para viver esse novo dia com fé e coragem. Amém.</p>
 
     <p>Testemunho - "Eu pensei em desistir"
