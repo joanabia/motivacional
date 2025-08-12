@@ -11,7 +11,7 @@
     <h2>Fé, Coragem e Propósito para Recomeçar.</h2>
     <p>Todos os dias, Deus nos dá uma nova chance.
     Uma nova oportunidade de crescer, acreditar e agir.
-      Reflexão — “O Recomeço” 
+     <br><br> Reflexão — “O Recomeço” 
     Nem sempre os recomeços são fáceis, mas eles sempre são possíveis.
     Deus não espera que você seja perfeito, Ele espera que você confie.
     Todo dia é uma nova chance de deixar para trás o medo e seguir em frente pela fé.</p>
