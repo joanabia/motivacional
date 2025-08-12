@@ -32,8 +32,6 @@
     Não desista. O recomeço pode estar a uma oração de distância.”
 
 
-    Formulário: Viva com Propósito 
-    Queremos caminhar com você! Preencha com carinho.</p>
-
+   
 
    
