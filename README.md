@@ -11,33 +11,33 @@
     <h2>Fé, Coragem e Propósito para Recomeçar.</h2>
     <p>Todos os dias, Deus nos dá uma nova chance.<br>
     Uma nova oportunidade de crescer, acreditar e agir.</p>
-    <hr>
+    
 
-    <h3>Reflexão — “O Recomeço”</h3>
+     <p> Reflexão — “O Recomeço” 
     <p>Nem sempre os recomeços são fáceis, mas eles sempre são possíveis.<br>
     Deus não espera que você seja perfeito, Ele espera que você confie.<br>
     Todo dia é uma nova chance de deixar para trás o medo e seguir em frente pela fé.</p>
-    <hr>
+    
 
-    <h4>Devocional — “A Graça de Cada Manhã”</h4>   
-    <p>“As misericórdias do Senhor são a causa de não sermos consumidos; renovam-se cada manhã.” (Lamentações 3:22-23)</p>
-    <p>Hoje, ao abrir os olhos, Deus te deu um presente: um novo dia.<br>
+    <p> <h3> Devocional — “A Graça de Cada Manhã”</h3>   
+    “As misericórdias do Senhor são a causa de não sermos consumidos; renovam-se cada manhã.” (Lamentações 3:22-23)</p>
+    <p> Hoje, ao abrir os olhos, Deus te deu um presente: um novo dia.
     Não carregue os pesos de ontem.<br>
     A cada manhã, renove sua fé, entregue seus planos a Ele e viva com esperança.</p>
 
-    <p><b>Oração:</b><br>
+    <p> <br>Oração:
     <b>Senhor, obrigado por renovar Tua graça sobre mim a cada dia.<br>
     Me fortalece para viver esse novo dia com fé e coragem. Amém.</b></p>
     <hr>
 
-    <h5>Testemunho - "Eu pensei em desistir"</h5> 
-    <p><b>Mensagem Final:</b><br>
+    <p>Testemunho - "Eu pensei em desistir"</p>
+    <p>Mensagem Final:
     “Se Deus cuidou de mim quando eu achei que era o fim, Ele vai cuidar de você também.<br>
     Não desista. O recomeço pode estar a uma oração de distância.”</p>
-    <hr>
 
-    <h4>Formulário: Viva com Propósito</h4>
-    <p>Queremos caminhar com você! Preencha com carinho.</p>
+
+    <p>Formulário: Viva com Propósito 
+    Queremos caminhar com você! Preencha com carinho.</p>
 
     <form>
         <p><label><input type="checkbox" name="ajuda" value="Testemunho"> Testemunho</label></p>
