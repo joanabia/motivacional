@@ -17,14 +17,14 @@
     Todo dia é uma nova chance de deixar para trás o medo e seguir em frente pela fé.</p>
     
 
-    <p><h3> Devocional — “A Graça de Cada Manhã”</h3></p>   
+     Devocional — “A Graça de Cada Manhã” 
    <p> “As misericórdias do Senhor são a causa de não sermos consumidos; renovam-se cada manhã.” (Lamentações 3:22-23). Hoje, ao abrir os olhos, Deus te deu um presente: um novo dia.
     Não carregue os pesos de ontem.<br>
     A cada manhã, renove sua fé, entregue seus planos a Ele e viva com esperança.
 
     Oração:
     Senhor, obrigado por renovar Tua graça sobre mim a cada dia.
-    Me fortalece para viver esse novo dia com fé e coragem. Amém.</p>
+    Me fortalece para viver esse novo dia com fé e coragem. Amém.
 
     <p>Testemunho - "Eu pensei em desistir"
    Mensagem Final:
