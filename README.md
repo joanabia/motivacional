@@ -29,7 +29,8 @@
     Testemunho - "Eu pensei em desistir"
    Mensagem Final:
     “Se Deus cuidou de mim quando eu achei que era o fim, Ele vai cuidar de você também.<br>
-    Não desista. O recomeço pode estar a uma oração de distância.”
+    Não desista. O recomeço pode estar a uma oração de distância.” Um novo começo, uma transformação ou uma mudança positiva na sua vida pode acontecer logo após um momento de oração.Basta você se conectar com Deus, através da oração para que uma oportunidade de recomeçar surja, trazendo esperança e renovação. 
+    <br>Resumo:"Às vezes, tudo o que precisamos para transformar nossa vida é simplesmente pausar, olhar para dentro e fazer uma oração. O recomeço, cheio de esperança e força, pode estar mais perto do que imaginamos — basta um momento de fé para abrir novas portas. Nunca subestime o poder de se conectar com o divino; é aí que nascem as verdadeiras mudanças. Confie, ore, e prepare-se para um novo capítulo cheio de possibilidades."
 
 
    
